@@ -31,8 +31,6 @@ const removeContact = async (contactId) => {
 
   allContacts.splice(idx, 1);
   await updateContacts(allContacts);
-
-  return "\nThe contact has been successfully removed.";
 };
 
 const addContact = async (name, email, phone) => {
