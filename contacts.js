@@ -29,12 +29,10 @@ const removeContact = async (contactId) => {
     throw new Error("Contact not found.")
   };
 
-  const deletedContact = await getContactById(contactId);
-
   allContacts.splice(idx, 1);
   await updateContacts(allContacts);
 
-  return deletedContact;
+  return "\nThe contact has been successfully removed.";
 };
 
 const addContact = async (name, email, phone) => {
