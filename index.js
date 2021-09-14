@@ -31,8 +31,8 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
         await contacts.getContactById(id)
           .then(console.table);
 
-        await contacts.removeContact(id);
-        console.log("\nThe contact has been successfully removed.");
+        await contacts.removeContact(id)
+          .then(console.table);
 
         await contacts.listContacts()
           .then(console.table);
