@@ -20,7 +20,7 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
         await contacts.addContact(name, email, phone,)
           .then(console.table);
 
-        console.log("\nThe contact has been successfully added");
+        console.log("\nThe contact has been successfully added.");
 
         await contacts.listContacts()
           .then(console.table);
@@ -32,7 +32,7 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
           .then(console.table);
 
         await contacts.removeContact(id);
-        console.log("\nThe contact has been successfully removed");
+        console.log("\nThe contact has been successfully removed.");
 
         await contacts.listContacts()
           .then(console.table);
