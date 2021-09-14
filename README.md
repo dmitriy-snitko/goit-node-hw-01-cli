@@ -1,1 +1,12 @@
-# goit-node-hw-01-cli
+# Получаем и выводим весь список контактов в виде таблицы (console.table)
+
+<img src='https://d3dehtdmp2rwcw.cloudfront.net/ms_435441/IEGjNp58qkoMIigllYkKlxEIjgUr1o/1.jpg?Expires=1631640600&Signature=cmBnNPjoLbMyj-ufWTKNDE4ygbZ1SNek4bINpCkxLXrE8MpqP62nLSqGKP4ZoUBwLYahV1E~i0CdCouP30Z2tca0Jg0hB0jENxEMo~l~r1PQ67OQlzUy80FsZqMSZQ5~epZ9mJrjWIDzsWQkb~X6XrGWW1q5zOOFWDvq8Jrotq03dM-Ljp62f-1UxI2tCUOFqL5tu29RcTYsoxifZG9ChOdbnN6UUgFTa7JjNyZmjTq3nilqtezhiR1kLayKHUnSiFoHkveTb~pGk5TKVgss0GB2IPcmFUcV3N4FKeaBGb8~winrC2DnmD-C7~WZY~1mnhtMe9GFh140CdRRTD~vSw__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA' />
+
+# Получаем контакт по id
+<img src='https://d3dehtdmp2rwcw.cloudfront.net/ms_435441/urCuwF4esyAGERDfowJ28MFwKkpl1U/2.jpg?Expires=1631640600&Signature=OlifL3PkmjydjwZiVkcyIMZO23BFjZ5f9vBopRH~PasWpi79uP-qDBVEikb~PtngSswTRbAQWeKVO6VS1kAbeCugN4RsPTmlJXiYYAfwyF14I32Dkc2hL~benzUE~YrCF05pIAYo7gIIvAzTHVU9q9xk7UBSV14tNS1IpvsRSvJDoT2mBUFL6SRAJiRZstDpaskR-aR~s~v4pKw0fFj39gNeR3L62dDrmPfR0oEQ9d9GFqCEnyMRBLFs3hWb1f3THEnL3iyGpQXdr3kMHGM4lE7m4lvEsEfbzz4U~SV19drJw5OhJZE~TXyvSGkz1c2cDRDO3Mb9~6DIL3qfwfFDQQ__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA' />
+
+# Добавялем контакт
+<img src='https://d3dehtdmp2rwcw.cloudfront.net/ms_435441/0HAPzUyoZvOkaYswf1wA8P5agZzh2i/3.jpg?Expires=1631642400&Signature=mmkgyCZiVlI7xiGBUbqgAUpK1b7JIA8UQrvAgYomu2lfHA~x-TaTTVBBWhlIXGaliJ6ZIwYe6B3QOebppA3PN4y3wVOeu4MV1HAy9Q5iwdxzn9A0t2Atkz4-u-oBCcHUFULiw-m2RESWNgiEBC~7MmybfiLrl3RucmGWk8iJDhpzXv~eAqkEz9GF~koRNhJl4EAgO2M3JcNcjA-Go8GcZC6b03a-m0isxEfM4-dFjRM-KsBUjAII-2CaxGwz0B6CAxKE0bDzwfHhHqqeQJE79E47Qzep95b1uD3rPClknrSuuO4oNbQgvBDDUxY3u-gqUxSJvwsJY~ReK6IF98m6eA__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA' />
+
+# Удаляем контакт
+<img src='https://d3dehtdmp2rwcw.cloudfront.net/ms_435441/hUqTfJMtiz0VzaUjJungwHdIhS8GhZ/4.jpg?Expires=1631642400&Signature=aUSHDyF-sxpTASNrUREfkQ7CKj-7qKKPePEcNAJhAO--na80~Fh3JtzUoRNSb~2Dc9R5CnKDZc0fMz5mc-MMcOwOBBclZdmw7uLOgu~hpKxfmCQTUalGZExTSZxRw1iTcGX3Y8DJ7SUkTgHRiL0zlHLhVh9zNYJ9cej2dicxqu76owBMMbVMoZyKQIpZgDpc740jdj734yy6q2a590MYK4MawbBi-OhcvJzNT668Dy2HLm2zI3i1TL4TVdU8W7uiqJJ1OJFJcAZ-kSlbM6cTDpcQvi9mYBIZK~E4OOcCe-mr4HrFeWf1mLD2PD0b2Q6dpOKqQbr8Ys-EJuPwaQZ4Xw__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA' />
